@@ -706,7 +706,14 @@ textarea::placeholder {
     transform: translateX(-300vw);
 }
 
+.wrapper {
+    overflow: hidden;
+}
+
 @media screen and (max-width:500px) {
+    body {
+        touch-action: pan-y;
+    }
     /* Navbar */
     .navbar-div {
         width: 87vw;
