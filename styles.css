@@ -797,7 +797,7 @@ textarea::placeholder {
     .projects {
         flex-direction: column;
         overflow-y: hidden;
-        height: 160vh;
+        height: 145vh;
         gap: 2rem;
     }
     .box {
