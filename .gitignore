@@ -1,0 +1,23 @@
+.input-wrapper::after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: -1.5px;
+    width: 0;
+    height: 2px;
+    background-color: #fff;
+    transition: width 0.5s ease;
+    border-radius:50%;
+}
+
+
+<div class="box project3">
+                    <h2 class="tittle-project">blablabla</h2>
+                    <a href=""><img class="imgs-projects" src="imgs-projects/maxi-player.png"></a>
+                    <p class="p-project">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit voluptate dicta itaque illo fuga. Corrupti hic ullam natus. </p>
+                    <div class="icons-projects">
+                        <img src="imgs-aboutme/html5.png" class="proj-img proj-html5">
+                        <img src="imgs-aboutme/CSS3_logo_and_wordmark.svg.png" class="proj-img proj-css3">
+                        <img src="imgs-aboutme/JavaScript-logo.png" class="proj-img proj-javascript">
+                    </div>
+                </div>
