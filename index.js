@@ -19,7 +19,7 @@ const translations = {
         projects: "PROJECTS",
         contact: "CONTACT",
         homeP: "~ Full Stack Developer ~",
-        amP: - "I'm Maxi, a Full-Stack developer focused on Front-End and strongly driven by UX/UI design. I am passionate about building intuitive, visually appealing, and high-quality software that users truly enjoy. I am currently in my first year of the Associate Degree in Full Stack Development at the Universidad Provincial de Córdoba (UPC). I possess solid judgment and critical thinking skills, allowing me to confidently make difficult decisions when tackling complex projects.",
+        amP: "- I'm Maxi, a Full-Stack developer focused on Front-End and strongly driven by UX/UI design. I am passionate about building intuitive, visually appealing, and high-quality software that users truly enjoy. I am currently in my first year of the Associate Degree in Full Stack Development at the Universidad Provincial de Córdoba (UPC). I possess solid judgment and critical thinking skills, allowing me to confidently make difficult decisions when tackling complex projects.",
         enAm:"- Additionally, I have a strong command of English (B1 level). While much of my early learning was passive during my childhood, I have intensified my focus in recent years, significantly improving both my speaking and listening skills.",
         mfc: "My formation in CyberSecurity",
         cyb: "- In parallel, I am training in cybersecurity to integrate secure coding practices from the ground up. My current goal is to keep refining my technical skills and contribute value to challenging projects.",
